@@ -1,0 +1,6 @@
+pip install torch torchvision --index-url https://download.pytorch.org/whl/cu118  # or follow official install for your CUDA
+pip install timm            # collection of pretrained image models. :contentReference[oaicite:4]{index=4}
+pip install albumentations   # fast augmentation. :contentReference[oaicite:5]{index=5}
+pip install grad-cam        # jacobgil/pytorch-grad-cam package. :contentReference[oaicite:6]{index=6}
+pip install scikit-learn matplotlib pandas seaborn opencv-python
+pip install kaggle          # if downloading from Kaggle CLI. :contentReference[oaicite:7]{index=7}
