@@ -49,8 +49,8 @@ We split dataset into:
 Clone the repo and install dependencies:
 
 ```bash
-git clone https://github.com/yourusername/brain-tumor-project.git
-cd brain-tumor-project
+git clone https://github.com/nandeeshbhatrai/brain-tumor-identification.git
+cd brain-tumor-identification
 
 # create venv (recommended)
 python -m venv venv
@@ -108,7 +108,7 @@ Example (left = original MRI, right = Grad-CAM overlay):
 
 | Tumor Detected | Grad-CAM |
 |----------------|----------|
-| ![MRI](outputs/gradcam/sample_original.jpg) | ![Grad-CAM](outputs/gradcam/sample_gradcam.jpg) |
+| ![MRI](data\processed\test\yes\Y188.jpg) | ![Grad-CAM](outputs\gradcam\gradcam_Y188.jpg) |
 
 ---
 

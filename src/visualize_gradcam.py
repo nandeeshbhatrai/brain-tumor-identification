@@ -95,5 +95,5 @@ def visualize_gradcam(index=0):
 # Run on first 5 samples
 # -----------------------------
 if __name__ == "__main__":
-    for i in range(5):
+    for i in range(14, 19):
         visualize_gradcam(i)
