@@ -108,7 +108,7 @@ Example (left = original MRI, right = Grad-CAM overlay):
 
 | Tumor Detected | Grad-CAM |
 |----------------|----------|
-| ![MRI](data\processed\test\yes\Y188.jpg) | ![Grad-CAM](outputs\gradcam\gradcam_Y188.jpg) |
+| ![MRI](data/processed/test/yes/Y188.jpg) | ![Grad-CAM](outputs/gradcam/gradcam_Y188.jpg) |
 
 ---
 
